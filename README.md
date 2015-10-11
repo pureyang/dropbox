@@ -13,4 +13,4 @@ Completed:
 * [ ] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 * [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
-![Video Walkthrough](dropbox)
+![Video Walkthrough](dropbox.gif)
